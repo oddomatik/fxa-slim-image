@@ -1,4 +1,4 @@
-FROM node:0.10-slim
+FROM node:latest
 
 # FROM https://github.com/docker-library/python/blob/a736fc19a99afe3d77ba108263aad53bd1b9ab65/2.7/slim/Dockerfile
 # http://bugs.python.org/issue19846
